@@ -1,0 +1,11 @@
+[
+  "tests/test_integration_binance_to_hypothesislab.py::TestBinanceDataFlow::test_detects_data_gaps_and_duplicates_without_silent_clipping",
+  "tests/test_integration_binance_to_hypothesislab.py::TestBinanceDataFlow::test_klines_normalization_and_integrity_check",
+  "tests/test_integration_binance_to_hypothesislab.py::TestBinanceDataFlow::test_universe_discovery_with_mock_data",
+  "tests/test_integration_binance_to_hypothesislab.py::TestEndToEndPipeline::test_complete_binance_to_hypothesislab_execution",
+  "tests/test_integration_binance_to_hypothesislab.py::TestFeatureEngineIntegration::test_causal_feature_extraction_from_candles",
+  "tests/test_integration_binance_to_hypothesislab.py::TestFeatureEngineIntegration::test_strict_point_in_time_causality_no_lookahead",
+  "tests/test_integration_binance_to_hypothesislab.py::TestHypothesisLabIntegration::test_fast_screening_and_evolution_pipeline",
+  "tests/test_integration_binance_to_hypothesislab.py::TestHypothesisLabIntegration::test_search_space_budget_and_random_search_comparison",
+  "tests/test_integration_binance_to_hypothesislab.py::TestSecurityGuardrails::test_trading_flags_permanently_disabled"
+]

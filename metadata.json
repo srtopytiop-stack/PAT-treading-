@@ -1,0 +1,6 @@
+{
+  "name": "PAT Trading - مختبر الأبحاث الكمية والتحقق الإحصائي",
+  "description": "مختبر بحث كمي ذاتي لاكتشاف وتطوير استراتيجيات التداول مع نماذج Kronos التنبؤية وبوابات مكافحة فرط التخصيص PBO ومحاكاة مونت كارلو لبيانات Binance Spot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
